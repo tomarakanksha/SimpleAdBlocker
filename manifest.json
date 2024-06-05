@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Simple Ad Blocker",
     "version": "1.0",
-    "description": "A simple ad blocker for Microsoft Edge",
+    "description": "A simple ad blocker",
     "permissions": [
       "declarativeNetRequest",
       "storage",
